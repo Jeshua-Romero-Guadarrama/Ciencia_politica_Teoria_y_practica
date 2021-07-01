@@ -1,0 +1,42 @@
+# Las teorías empírico-analíticas {#Lasteoríasempíricoanalíticas}
+
+```{r, eval=knitr::opts_knit$get("rmarkdown.pandoc.to") == "html", results='asis', echo=FALSE}
+cat('<hr style="background-color:#03193b;height:2px">')
+```
+
+Primera parte:
+
+- Rasgos generales: El positivismo, el empirismo y sus derivados.
+- El objeto y el método.
+- Problemas actuales.
+
+Segunda parte:
+
+- Behaviorismo, estructural-funcionalismo y enfoque sistémico.
+- El enfoque comparatista: Descripción de los enfoques.
+- Síntesis de obras teóricas de estas corrientes.
+
+Tercera parte:
+
+- Las explicaciones de base psicológica individual: La Psicología del estímulo-respuesta.
+- La psicología de la Gestalt.
+- La teoría del campo.
+- El freudismo ortodoxo.
+- El neofreudismo.
+
+Cuarta parte:
+
+- El formalismo.
+- La teoría de los juegos.
+- La teoría de la información y la cibernética.
+- Modelos y simulaciones.
+
+Quinta parte:
+
+- Enfoques metodológicos usuales: Puntos en común.
+- Particularidades metodológicas.
+- Reflexiones sobre el lenguaje y la elaboración conceptual.
+
+## Primera parte {-}
+
+### Rasgos generales {-}

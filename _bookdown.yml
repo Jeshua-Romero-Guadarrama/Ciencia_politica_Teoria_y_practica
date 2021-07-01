@@ -1,0 +1,10 @@
+book_filename: "Ciencia_politica"
+output_dir: docs
+delete_merged_file: true
+rmd_files: ["index.Rmd",
+            "Capitulo_01.Rmd",
+            "Capitulo_02.Rmd",            
+            "Capitulo_03.Rmd",
+            "Capitulo_04.Rmd", 
+            "Capitulo_05.Rmd",
+            "Referencias_bibliograficas.Rmd"]
